@@ -1,0 +1,9 @@
+{
+  "domain": "naver_premium",
+  "name": "Naver TTS",
+  "documentation": "https://github.com/chohoo89/HomeAssiant_Componets/tree/master/naver_premium",
+  "requirements": [],
+  "codeowners": ["chohoo89"],
+  "version": "1.0.1",
+  "after_dependencies": ["media_player"]
+}
