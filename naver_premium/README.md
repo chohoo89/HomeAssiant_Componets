@@ -1,5 +1,8 @@
 # NAVER CLOUD TTS(PREMIUM) FOR HOME ASSIANT
 
+> 🚨 네이버 CLOVA Premium Voice(CPV) 종료로 인해 더이상 이 컴포넌트는 사용할 수 없습니다.
+> 네이버 클라우드 공지사항을 확인 해보세요. [링크](https://www.ncloud.com/support/notice/all/1408?page=4)
+
 ## ■ Intro
 ### 이 컴포넌트는 유료 컴퍼넌트 입니다. 1회 호출에 5원 입니다. (네이버에서 부과) <br>
 Cache 기능이 있어 한번 이라도 호출 했던 메시지는 금액이 부과가 되지 않습니다.<br> 
